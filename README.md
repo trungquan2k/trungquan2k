@@ -4,7 +4,7 @@
 
 Hello there 👋
 
--   My name is Hoang Trung Quan. I am a mobile developer<br/>
+-   My name is Hoang Trung Quan. I am a mobile developer more than 2 years exprience<br/>
 -   I was student of Passerelles numériques Viet Nam https://www.passerellesnumeriques.org/en/<br/>
 -   I love coding , playing guitar and watching cartoon <br/>
 
