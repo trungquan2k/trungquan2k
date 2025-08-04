@@ -4,7 +4,8 @@
 
 Hello there 👋
 
--   My name is Hoang Trung Quan. I am a mobile developer more than 2 years exprience<br/>
+-   My name is Hoang Trung Quan. I am a mobile developer more than 3 years exprience<br/>
+-   My portfolio at https://quandev-apps.netlify.app/<br/>
 -   I was student of Passerelles numériques Viet Nam https://www.passerellesnumeriques.org/en/<br/>
 -   I love coding , playing guitar and watching cartoon <br/>
 
